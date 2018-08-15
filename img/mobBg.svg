@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #639fdb;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        filter: url(#Path_1-2);
+      }
+
+      .cls-6 {
+        filter: url(#Path_1);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="375" height="667"/>
+    </clipPath>
+    <filter id="Path_1" x="-29" y="-23.142" width="430.909" height="586.155" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x2="1" y2="0.868" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e67d3" stop-opacity="0.941"/>
+      <stop offset="1" stop-color="#018ca8" stop-opacity="0.839"/>
+    </linearGradient>
+    <filter id="Path_1-2" x="-13.5" y="-8.618" width="403.909" height="531.718" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="mobBg" class="cls-2">
+    <g id="Group_3" data-name="Group 3">
+      <g id="mobBg-2" data-name="mobBg" transform="translate(-2 -0.142)">
+        <g id="Group_2" data-name="Group 2">
+          <g id="Group_1" data-name="Group 1">
+            <g class="cls-6" transform="matrix(1, 0, 0, 1, 2, 0.14)">
+              <path id="Path_1-3" data-name="Path 1" class="cls-3" d="M168,473.01c121.162,1.069,114.736-28.72,167.428-76.663s86.106-25.123,147.794-15.665,61.688-80.222,61.688-80.222V-59.118H168Z" transform="translate(-170 58.98)"/>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="375" height="614.51" transform="translate(0 0.108)"/>
+      </g>
+      <g id="mobBg-3" data-name="mobBg" transform="translate(0 -1.118)">
+        <g id="Group_2-2" data-name="Group 2">
+          <g id="Group_1-2" data-name="Group 1">
+            <g class="cls-5" transform="matrix(1, 0, 0, 1, 0, 1.12)">
+              <path id="Path_1-4" data-name="Path 1" class="cls-4" d="M168,445.574c121.162,1.014,114.736-27.239,167.428-72.711s86.106-23.828,147.794-14.858,61.688-76.086,61.688-76.086V-59.118H168Z" transform="translate(-168 58)"/>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="375" height="582.827" transform="translate(0 0.103)"/>
+      </g>
+    </g>
+  </g>
+</svg>

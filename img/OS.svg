@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 249.028 254.004">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        filter: url(#Union_10);
+      }
+
+      .cls-5 {
+        filter: url(#Union_9);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.135" y1="1.187" x2="0.941" y2="-0.471" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b78ea"/>
+      <stop offset="1" stop-color="#173da9"/>
+    </linearGradient>
+    <filter id="Union_9" x="0.837" y="6.004" width="248.192" height="248" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="-0.378" y1="0.302" x2="0.973" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="Union_10" x="0" y="0" width="248" height="248.192" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="OS" transform="translate(-516 -187.064)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 516, 187.06)">
+      <path id="Union_9-2" data-name="Union 9" class="cls-1" d="M-1819.808,75.064a45,45,0,0,1,45-45h98a45,45,0,0,1,45,45v98q0,1.6-.111,3.182h.082v41.8h-43.655q-.655.019-1.316.019C-1799.661,218.064-1822.414,106.862-1819.808,75.064Z" transform="translate(1846.84 -3.06)"/>
+    </g>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 516, 187.06)">
+      <path id="Union_10-2" data-name="Union 10" class="cls-2" d="M-1775,218.064a45,45,0,0,1-45-45v-98a45,45,0,0,1,45-45h143v49h-.04c-2.265,113.559-101.168,139.188-137.856,139.191Q-1772.7,218.256-1775,218.064Z" transform="translate(1847 -3.06)"/>
+    </g>
+    <path id="_149256" data-name="149256" class="cls-3" d="M59.8,47.836H50.228V23.918H59.8A11.959,11.959,0,1,0,47.836,11.959v9.567H23.918V11.959A11.959,11.959,0,1,0,11.959,23.918h9.567V47.836H11.959A11.959,11.959,0,1,0,23.918,59.8V50.228H47.836V59.8A11.959,11.959,0,1,0,59.8,47.836ZM50.228,11.959A9.567,9.567,0,1,1,59.8,21.526H50.228ZM11.959,21.526a9.567,9.567,0,1,1,9.567-9.567v9.567ZM21.526,59.8a9.567,9.567,0,1,1-9.567-9.567h9.567Zm2.392-11.959V23.918H47.836V47.836ZM59.8,69.363A9.578,9.578,0,0,1,50.228,59.8V50.228H59.8a9.567,9.567,0,0,1,0,19.135Z" transform="translate(601 265.064)"/>
+  </g>
+</svg>
